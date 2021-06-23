@@ -1,4 +1,4 @@
-## numberConverterToText
+## Converter Number To Text
 Project  for convert numbers into words.
 A project to convert numbers to words.
 The main logic is in the class NumberToWordsConverter in the convertServices module.
